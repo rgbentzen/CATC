@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>TDG_Quiz</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>0</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>results.html</cancelfail>
+<passdone>results.html</passdone>
+<prevpage>starttest.html</prevpage>
+<page>
+<index>0</index>
+<name>tdg_quiz_question_1.html</name>
+<question>
+<id>23</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQ1</var>
+<text>Can a driver transporting ammunition also carry passengers?</text>
+<correctans>Yes, if a passenger is directly tasked to assist the driver.</correctans>
+<choices>No, passengers are prohibited.|Yes, if a passenger is directly tasked to assist the driver.|Yes, as long as the ammunition is locked in the trunk of the vehicle.|Yes, there are no restrictions for passengers.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>tdg_quiz_question_2.html</name>
+<question>
+<id>35</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQ2</var>
+<text>Rifles and ammunition can be carried in the same POMV as long as both are locked in separate containers.</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>tdg_quiz_question_3.html</name>
+<question>
+<id>47</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQ3</var>
+<text>Ammunition must be kept in a locked container at all times during transportation.</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>tdg_quiz_question_4.html</name>
+<question>
+<id>59</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQ4</var>
+<text>The maximum weight of any one package or container of ammunition is:</text>
+<correctans>30kg</correctans>
+<choices>25kg|15kg|30kg|10kg</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>tdg_quiz_question_5.html</name>
+<question>
+<id>71</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQ5</var>
+<text>Authority for CIC Officers to transport ammunition for CCO activities comes from the Director of Transportation.</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>tdg_quiz_question_6.html</name>
+<question>
+<id>83</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQ6</var>
+<text>You are tasked to transport the supplies for a weekend activity that includes rifle shooting at a local range. The list of supplies includes:\rPot sets, \rTents,\rRations,\rStoves, lanterns and fuel, and\rBackpacks.\r\rCan you also transport the ammunition in your POMV?</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>tdg_quiz_question_7.html</name>
+<question>
+<id>95</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQ7</var>
+<text>Drivers of POMV transporting .22 calibre ammunition must:</text>
+<correctans>Possess a valid certificate to transport ammunition.</correctans>
+<choices>Have a warning sign or placard on the rear left corner of the vehicle.|Only drive during daylight hours.|Possess a valid certificate to transport ammunition.|All of the above.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>tdg_quiz_question_8.html</name>
+<question>
+<id>107</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQ8</var>
+<text>In the case of an accident where a POMV  transporting ammunition is damaged and can\u2019t be driven, the driver must:</text>
+<correctans>Inform emergency service responders that there is ammunition in the vehicle.</correctans>
+<choices>Have the vehicle towed back the place where the ammunition was issued so that it can be safely unloaded there.|Inform emergency service responders that there is ammunition in the vehicle.|Request that the emergency service responders (e.g. Police or fire fighters) remove the ammunition.|Not inform anyone that ammunition is in the vehicle so that it remains secure.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>tdg_quiz_question_9.html</name>
+<question>
+<id>489</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQ9</var>
+<text>.22 ammunition may be transported in the POMV\u2019s</text>
+<correctans>Only in the trunk or cargo area.</correctans>
+<choices>Anywhere in the vehicle, as long as the box is not showing.|Only in the trunk or cargo area.|On the floor in the passenger compartment, as long as a passenger holds it from sliding.|Only in the glove box which must be locked at all times.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>tdg_quiz_question_10.html</name>
+<question>
+<id>189</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQ10</var>
+<text>A POMV transporting ammunition:</text>
+<correctans>Should take the most direct route from the pick-up point to the drop-off point.</correctans>
+<choices>Should take the most direct route from the pick-up point to the drop-off point.|Can be parked overnight as long as warning signs are placed around the vehicle.|Should keep its hazard lights (four-way flashers) on at all times.|Should stay off 4-lane highways.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+</lectoratest>
